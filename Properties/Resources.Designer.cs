@@ -103,6 +103,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Delete_1 {
+            get {
+                object obj = ResourceManager.GetObject("Delete_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Dollar1 {
             get {
                 object obj = ResourceManager.GetObject("Dollar1", resourceCulture);
@@ -153,6 +163,16 @@ namespace WindowsFormsApp1.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Manuf_1 {
+            get {
+                object obj = ResourceManager.GetObject("Manuf_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap People_1 {
             get {
                 object obj = ResourceManager.GetObject("People_1", resourceCulture);
@@ -186,6 +206,16 @@ namespace WindowsFormsApp1.Properties {
         internal static System.Drawing.Bitmap Product1 {
             get {
                 object obj = ResourceManager.GetObject("Product1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Settings_icon {
+            get {
+                object obj = ResourceManager.GetObject("Settings_icon", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
